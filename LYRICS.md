@@ -1,7 +1,7 @@
 # *Laisse pas traîner ton fils*
 ## NTM
 \
-\
+
 ### Kool Shen
 
 À l'aube de l'an 2000 pour les jeunes c'est plus le même deal\
@@ -93,7 +93,7 @@ Laisse pas traîner ton fils\
 Si tu ne veux pas qu'il glisse\
 Qu'il te ramène du vice\
 Laisse pas traîner ton fils\
-Si tu veux pas qu'il glisse\
+Si tu veux pas qu'il glisse
 
 Laisse pas traîner ton fils\
 Si tu ne veux pas qu'il glisse\
